@@ -1,0 +1,9 @@
+{application,reporter,
+             [{applications,[kernel,stdlib,elixir,logger,jason,libcluster,
+                             tesla]},
+              {description,"reporter"},
+              {modules,['Elixir.Reporter.Application',
+                        'Elixir.Reporter.Reporter']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {mod,{'Elixir.Reporter.Application',[]}}]}.

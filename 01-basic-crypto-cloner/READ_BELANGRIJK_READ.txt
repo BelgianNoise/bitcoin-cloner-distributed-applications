@@ -1,0 +1,5 @@
+Ik heb een umbrella project gemaakt wat helemaal niet nodig was
+maar op deze manier draait het nu.
+Ik vond dat zo ook makkelijker om met 1 config file te werken en maar 
+op 1 plaats te moeten "mix compile"en.
+Assignment NIET launchen via mapje: student_old_dont_use
